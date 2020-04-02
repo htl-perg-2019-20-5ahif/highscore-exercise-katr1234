@@ -1,0 +1,16 @@
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\appsettings.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\HighscoreAPI.exe
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.runtimeconfig.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.runtimeconfig.dev.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.dll
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.csprojAssemblyReference.cache
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.csproj.CopyComplete
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreTests\Debug\netcoreapp3.1\HighscoreTests.dll

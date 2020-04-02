@@ -1,0 +1,15 @@
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\appsettings.Development.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\appsettings.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.exe
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.deps.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.runtimeconfig.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.runtimeconfig.dev.json
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\b\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.dll
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\staticwebassets\HighscoreAPI.StaticWebAssets.Manifest.cache
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\staticwebassets\HighscoreAPI.StaticWebAssets.xml
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.AssemblyInfoInputs.cache
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.AssemblyInfo.cs
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.RazorTargetAssemblyInfo.cache
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.csproj.CopyComplete
+D:\HTL Perg\5AHIF\C#\Homework\HighscoreExercise\HighscoreAPI\.vs\HighscoreAPI\v16\lut\0\i\HighscoreAPI\Debug\netcoreapp3.1\HighscoreAPI.dll
